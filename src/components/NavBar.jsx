@@ -6,7 +6,7 @@ export default function NavBar() {
 	return (
 		<div className="navbar">
 			<div className="navbar-brand">
-				<Link to={"/"}>Movie App</Link>
+				<Link to={"/"}>favours</Link>
 			</div>
 			<div className="navbar-links">
 				<Link to={"/"} className="nav-link">
