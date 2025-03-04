@@ -1,0 +1,16 @@
+.footer-content {
+	margin: 1rem auto;
+}
+
+.footer-content p {
+	margin: 0.5rem auto;
+	text-align: center;
+}
+
+.media-links-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	gap: 1rem;
+}
