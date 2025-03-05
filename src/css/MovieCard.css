@@ -5,8 +5,10 @@
 	background-color: #1a1a1a;
 	transition: transform 0.2s;
 	height: 100%;
+	max-width: 350px;
 	display: flex;
 	flex-direction: column;
+	margin: 0 auto;
 }
 
 .movie-card:hover {

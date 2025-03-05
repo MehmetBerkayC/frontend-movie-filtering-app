@@ -7,7 +7,7 @@ import FavouriteStats from "../components/FavouriteStats";
 export default function Favourites() {
 	const { favourites } = useMovieContext();
 
-	if (favourites) {
+	if (favourites && Object.keys(favourites).length !== 0) {
 		return (
 			<div className="favourites-filled">
 				<div className="favourites-label">
