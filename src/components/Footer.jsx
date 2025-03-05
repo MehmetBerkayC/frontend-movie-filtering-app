@@ -8,8 +8,8 @@ export default function Footer() {
 			<p>Made to practice.</p>
 			<div className="media-links-container">
 				<MediaLink
-					href="https://github.com/MehmetBerkayC"
-					content="MehmetBerkayC - Change to Website"
+					href="https://mehmetberkaycoruk.netlify.app"
+					content="MehmetBerkayC"
 					icon={<i class="fa-solid fa-globe"></i>}
 				/>
 				<MediaLink
